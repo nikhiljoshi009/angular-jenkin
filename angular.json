@@ -36,6 +36,7 @@
           },
           "configurations": {
             "production": {
+               "baseHref": "/angular-jenkin/",
               "budgets": [
                 {
                   "type": "initial",
